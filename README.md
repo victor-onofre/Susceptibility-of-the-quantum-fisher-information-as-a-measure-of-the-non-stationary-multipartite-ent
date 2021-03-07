@@ -1,1 +1,1 @@
-# Susceptibility-of-the-quantum-fisher-information-as-a-measure-of-the-non-stationary-multipartite-ent
+# Quantum Fisher information as a non-classical measurement in the radical pairmechanism of the avian compass model
